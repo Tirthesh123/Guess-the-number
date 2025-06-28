@@ -58,6 +58,7 @@ This project was created to practice GUI programming and basic game logic in Jav
    java GuessNumber
 
 3. **Play the game:**
+   
   -Enter your guess in the input box.
 
   -Click the “Guess” button.
